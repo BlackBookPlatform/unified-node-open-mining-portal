@@ -1,0 +1,8 @@
+{
+	"name": "BlackBook",
+    "symbol": "BLB",
+    "algorithm": "lyra2re2",
+    "reward": "POW",
+    "getblocktemplate":"POW"
+
+}
